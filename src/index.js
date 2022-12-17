@@ -1,6 +1,7 @@
+
 import './index.html';
 import './style.scss'
-import {sum} from './modules/calc'
+// import './modules/swiper-bundle';
+import slider from './modules/slider'
 
-console.log('hfdsfsi')
-console.log(sum(5, 6));
+slider()
