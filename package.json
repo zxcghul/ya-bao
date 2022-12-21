@@ -1,7 +1,6 @@
 {
   "name": "magazine-pizza",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "set NODE_ENV=development&&webpack serve --open",
@@ -10,7 +9,7 @@
     "clear": "rd /s /q dist"
   },
   "keywords": [],
-  "author": "",
+  "author": "hui",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.20.5",
@@ -27,5 +26,14 @@
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.11.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxcghul/ya-bao.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zxcghul/ya-bao/issues"
+  },
+  "homepage": "https://github.com/zxcghul/ya-bao#readme",
+  "description": ""
 }
