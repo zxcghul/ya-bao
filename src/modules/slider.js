@@ -15,12 +15,9 @@ const slider = () => {
                 // loop: false,
                 slidesPerView: 1,
                 // slidesPerView: "auto",
-<<<<<<< HEAD
                 // centeredSlides: true,asd
-=======
                 // centeredSlides: true,
                 // slidesPerGroup: 3
->>>>>>> 702de91 (make slider)
                 spaceBetween: 21
             }
         }
